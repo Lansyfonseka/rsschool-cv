@@ -14,3 +14,16 @@ Beginner front-end developer. Want to learn modern JS stack. Will do my best to 
 * _Version control_: Git
 * _Tools_: Github
 * _Css preprocessors_: SASS/SCSS
+
+### Code examples:
+* _Web-page #1_: [Money Keeper](https://github.com/Lansyfonseka/Money-keeper)
+
+### Experience:
+Had tried to create some easy games such as sudoku and 2048.
+
+### Education:
+* _High school_: incomplete higher education(Belarusian State University of Informatics and Radioelectronics/ since 2016)
+* _Courses_: online learning JavaScript on [Udemy](https://www.udemy.com/javascript_full/)
+
+### English:
+A2(reading articles, listening to podcasts and watch videos in english)
