@@ -16,14 +16,17 @@ Beginner front-end developer. Want to learn modern JS stack. Will do my best to 
 * _Css preprocessors_: SASS/SCSS
 
 ### Code examples:
-* _Web-page #1_: [Money Keeper](https://github.com/Lansyfonseka/Money-keeper)
+* _Web-page #1_: [Simple piskel](https://lansyfonseka.github.io/piskel/)
+* _Web-page #2_: [Metcast](https://lansyfonseka.github.io/weather/)
+* _Web-page #3_: [Cultural portal](https://cultural-portal-filmmakers.netlify.com) (_team task_)
 
 ### Experience:
-Had tried to create some easy games such as sudoku and 2048.
+I finished rsschool course in 2019. It was created such projects as _"Metcast"_ and _"Piskel"_. I took part in the project development team.
 
 ### Education:
-* _High school_: incomplete higher education(Belarusian State University of Informatics and Radioelectronics/ since 2016)
+* _Higher education_ : Belarusian State University of Informatics and Radioelectronics 2020
 * _Courses_: online learning JavaScript on [Udemy](https://www.udemy.com/javascript_full/)
+* _Courses_: online learning JavaScript on Rsschool 2019Q3 (_Completed_)
 
 ### English:
 A2(reading articles, listening to podcasts and watch videos in english)
