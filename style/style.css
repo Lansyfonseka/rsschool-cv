@@ -1,6 +1,6 @@
 body {
     margin: 0 0 0 0;
-    padding: 0 0 0 0; 
+    padding: 0 0 0 0;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -11,58 +11,52 @@ body {
 
 header {
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
+    justify-content: space-evenly;
     align-items: center;
-    padding: 40px 10% 0 10%;
+    padding: 40px 0;
 }
 
 .title_info {
-    margin: 3% 15px 3% 0;
+    height: fit-content;
 }
 
-.title_info
-h1 {
+.title_info h1 {
     margin-bottom: 10px;
 }
 
-.container 
-header
-img {
+.container header img {
     width: 250px;
 }
 
-.title_contact{
+.title_contact {
     font-size: 25px;
 }
 
 .main {
-    margin: 0 40px 0 40px;
+    margin: 0 40px;
 }
 
 h2 {
-    margin: 0 0 0 0;
+    margin: 15px 0;
 }
 
 p {
     padding: 0 0 0 15px;
-    margin: 10px 0 0 0;
     font-size: 20px;
 }
 
-.main
-ul {
+.main ul {
     margin: 10px 0 0 0;
 }
 
-.main
-ul
-li {
+.main ul li {
     font-size: 20px;
 }
 
-@media (min-width: 700px) {
-header{
-    flex-direction: row;
-    justify-content: center;
+@media (max-width: 700px) {
+    header {
+        flex-direction: column-reverse;
+        justify-content: center;
     }
 }
